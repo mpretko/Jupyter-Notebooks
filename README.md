@@ -1,3 +1,3 @@
-# Jupyter-Notebooks
+# Kickstarter Analysis
 
-This repository contains Jupyter notebooks which I have used for projects.  The first is Kickstart.ipynb, which analyzes data from Kickstarter campaigns and makes recommendations on how to run the optimal Kickstarter.
+This repository contains an analysis of Kickstarter data, making recommendations for running successful fundraising campaigns.  The data is contained in DSI_kickstarterscrape_dataset.csv, and the analysis takes place in the Jupyter notebook Kickstarter.ipynb.  I identify several variables with an important influence on success, such as the time of month a campaign starts.  My findings are summarized in Slides.pdf.
